@@ -5,6 +5,18 @@
 - 💞️ I’m looking to collaborate on my projects as chatbot for Telegram/WhatsApp/Twitch/Discord, development MMORPG, or simply collaboration on my live streaming on Twitch
 - 📫 How to reach me https://linktr.ee/intramind or simply by mail: lorenzo.pellegrini.intramind@gmail.com
 
+## Skills
+
+![PHP](https://img.shields.io/static/v1?label=PHP&style=plastic&logo=php&color=important&message=Senior)
+![MySQL](https://img.shields.io/static/v1?label=MySQL&style=plastic&logo=mysql&color=yellow&message=Middle)
+![HTML](https://img.shields.io/static/v1?label=HTML&style=plastic&logo=html5&color=yellow&message=Middle)
+![Java](https://img.shields.io/static/v1?label=Java&style=plastic&logo=intellijidea&color=yellow&message=Middle)
+![Python](https://img.shields.io/static/v1?label=Python&style=plastic&logo=python&color=informational&message=Junior)
+![JavaScript](https://img.shields.io/static/v1?label=JavaScript&style=plastic&logo=javascript&color=informational&message=Junior)
+![CSS](https://img.shields.io/static/v1?label=CSS&style=plastic&logo=css3&color=informational&message=Junior)
+![C++](https://img.shields.io/static/v1?label=C%2B%2B&style=plastic&logo=cplusplus&color=informational&message=Junior)
+![LUA](https://img.shields.io/static/v1?label=LUA&style=plastic&logo=lua&color=informational&message=Junior)
+
 ## Socials
 
 [![GitHub](https://img.shields.io/github/followers/Goddino-Repo?style=plastic&logo=github&label=Followers)](https://www.github.com/Goddino-Repo)
