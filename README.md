@@ -3,7 +3,7 @@
 - 👀 I’m interested in Software and game development, VR, gaming and content creation
 - 🌱 I’m currently learning web marketing and software development usefull for my projects
 - 💞️ I’m looking to collaborate on my projects as chatbot for Telegram/WhatsApp/Twitch/Discord, development MMORPG, or simply collaboration on my live streaming on Twitch
-- 📫 How to reach me https://linktr.ee/intramind or simply by mail: lorenzo.pellegrini.intramind@gmail.com
+- 📫 How to reach me https://linktr.ee/intramind or simply by mail: lorenzo.pellegrini@intramind-srl.com
 
 ## Skills
 
@@ -16,6 +16,14 @@
 ![CSS](https://img.shields.io/static/v1?label=CSS&style=plastic&logo=css3&color=informational&message=Junior)
 ![C++](https://img.shields.io/static/v1?label=C%2B%2B&style=plastic&logo=cplusplus&color=informational&message=Junior)
 ![LUA](https://img.shields.io/static/v1?label=LUA&style=plastic&logo=lua&color=informational&message=Junior)
+
+## IDE
+
+![Intellij IDEA](https://img.shields.io/static/v1?label=Intellij%20IDEA&style=plastic&logo=intellijidea&color=informational&message=JetBrains)
+![PHPStorm](https://img.shields.io/static/v1?label=PHPStorm&style=plastic&logo=phpstorm&color=informational&message=JetBrains)
+![PyCharm](https://img.shields.io/static/v1?label=PyCharm&style=plastic&logo=pycharm&color=informational&message=JetBrains)
+![CLion](https://img.shields.io/static/v1?label=CLion&style=plastic&logo=clion&color=informational&message=JetBrains)
+![WebStorm](https://img.shields.io/static/v1?label=WebStorm&style=plastic&logo=webstorm&color=informational&message=JetBrains)
 
 ## Socials
 
