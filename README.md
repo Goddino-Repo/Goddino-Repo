@@ -7,16 +7,16 @@
 
 ## Skills
 
-![PHP](https://img.shields.io/static/v1?label=PHP&style=plastic&logo=php&color=important&message=Senior)
-![MySQL](https://img.shields.io/static/v1?label=MySQL&style=plastic&logo=mysql&color=yellow&message=Middle)
-![HTML](https://img.shields.io/static/v1?label=HTML&style=plastic&logo=html5&color=yellow&message=Middle)
-![Java](https://img.shields.io/static/v1?label=Java&style=plastic&logo=intellijidea&color=yellow&message=Middle)
-![Python](https://img.shields.io/static/v1?label=Python&style=plastic&logo=python&color=informational&message=Junior)
-![JavaScript](https://img.shields.io/static/v1?label=JavaScript&style=plastic&logo=javascript&color=informational&message=Junior)
-![CSS](https://img.shields.io/static/v1?label=CSS&style=plastic&logo=css3&color=informational&message=Junior)
-![C++](https://img.shields.io/static/v1?label=C%2B%2B&style=plastic&logo=cplusplus&color=informational&message=Junior)
-![LUA](https://img.shields.io/static/v1?label=LUA&style=plastic&logo=lua&color=informational&message=Junior)
-![Unreal Engine](https://img.shields.io/static/v1?label=Unreal%20Engine&style=plastic&logo=unreal%20engine&color=informational&message=Junior)
+![PHP](https://img.shields.io/static/v1?label=PHP&style=plastic&logo=php&color=important&message=%20)
+![MySQL](https://img.shields.io/static/v1?label=MySQL&style=plastic&logo=mysql&color=important&message=%20)
+![HTML](https://img.shields.io/static/v1?label=HTML&style=plastic&logo=html5&color=important&message=%20)
+![Java](https://img.shields.io/static/v1?label=Java&style=plastic&logo=intellijidea&color=important&message=%20)
+![Python](https://img.shields.io/static/v1?label=Python&style=plastic&logo=python&color=important&message=%20)
+![JavaScript](https://img.shields.io/static/v1?label=JavaScript&style=plastic&logo=javascript&color=important&message=%20)
+![CSS](https://img.shields.io/static/v1?label=CSS&style=plastic&logo=css3&color=important&message=%20)
+![C++](https://img.shields.io/static/v1?label=C%2B%2B&style=plastic&logo=cplusplus&color=important&message=%20)
+![LUA](https://img.shields.io/static/v1?label=LUA&style=plastic&logo=lua&color=important&message=%20)
+![Unreal Engine](https://img.shields.io/static/v1?label=Unreal%20Engine&style=plastic&logo=unreal%20engine&color=important&message=%20)
 
 ## IDE
 
@@ -26,7 +26,7 @@
 ![CLion](https://img.shields.io/static/v1?label=CLion&style=plastic&logo=clion&color=informational&message=JetBrains)
 ![WebStorm](https://img.shields.io/static/v1?label=WebStorm&style=plastic&logo=webstorm&color=informational&message=JetBrains)
 ![Rider](https://img.shields.io/static/v1?label=Rider&style=plastic&logo=rider&color=informational&message=JetBrains)
-![Unreal Engine](https://img.shields.io/static/v1?label=Unreal%20Engine&style=plastic&logo=unreal%20engine&color=informational&message=Junior)
+![Unreal Engine](https://img.shields.io/static/v1?label=Unreal%20Engine&style=plastic&logo=unreal%20engine&color=informational&message=Epic%20Games)
 
 
 ## Socials
