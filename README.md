@@ -3,7 +3,7 @@
 - 👀 I’m interested in Software and game development, VR, gaming and content creation
 - 🌱 I’m currently learning web marketing and software development usefull for my projects
 - 💞️ I’m looking to collaborate on my projects as chatbot for Discord/Telegram/Twitch, development MMORPG with Unreal Engine, or simply collaboration on my live streaming on Twitch
-- 📫 How to reach me https://www.intramind-srl.com/php/content.php or simply by mail: lorenzo.pellegrini@intramind-srl.com
+- 📫 How to reach me https://os.intramind-srl.com/user-profile/@Goddino or simply by mail: lorenzo.pellegrini@intramind-srl.com
 
 ## Skills
 
