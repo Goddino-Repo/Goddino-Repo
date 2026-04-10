@@ -30,23 +30,52 @@
 
 ## Tools
 
+### Coding
 ![Git](https://img.shields.io/static/v1?label=Git&style=for-the-badge&logo=git&color=important&message=%20)
 ![Maven](https://img.shields.io/static/v1?label=Maven&style=for-the-badge&logo=apachemaven&color=important&message=%20)
 ![Bun](https://img.shields.io/static/v1?label=Bun&style=for-the-badge&logo=bun&color=important&message=%20)
 ![NodeJS](https://img.shields.io/static/v1?label=NodeJS&style=for-the-badge&logo=nodedotjs&color=important&message=%20)
+![GitHub](https://img.shields.io/static/v1?label=GitHub&style=for-the-badge&logo=github&color=important&message=%20)
+![Azure DevOps](https://img.shields.io/static/v1?label=Azure%20DevOps&style=for-the-badge&logo=azuredevops&color=important&message=%20)
+
+### Infrastructure
 ![Docker](https://img.shields.io/static/v1?label=Docker&style=for-the-badge&logo=docker&color=important&message=%20)
 ![Jenkins](https://img.shields.io/static/v1?label=Jenkins&style=for-the-badge&logo=jenkins&color=important&message=%20)
 ![Apache 2](https://img.shields.io/static/v1?label=Apache%202&style=for-the-badge&logo=apache&color=important&message=%20)
-![GitHub](https://img.shields.io/static/v1?label=GitHub&style=for-the-badge&logo=github&color=important&message=%20)
-![Azure DevOps](https://img.shields.io/static/v1?label=Azure%20DevOps&style=for-the-badge&logo=azuredevops&color=important&message=%20)
+![Portainer](https://img.shields.io/static/v1?label=Portainer&style=for-the-badge&logo=portainer&color=important&message=%20)
+![Rancher](https://img.shields.io/static/v1?label=Rancher&style=for-the-badge&logo=rancher&color=important&message=%20)
+![Dynatrace](https://img.shields.io/static/v1?label=Dynatrace&style=for-the-badge&logo=dynatrace&color=important&message=%20)
+![ngrok](https://img.shields.io/static/v1?label=ngrok&style=for-the-badge&logo=ngrok&color=important&message=%20)
+
+### Project management
 ![Jira](https://img.shields.io/static/v1?label=Jira&style=for-the-badge&logo=jira&color=important&message=%20)
 ![YouTrack](https://img.shields.io/static/v1?label=YouTrack&style=for-the-badge&logo=jetbrains&color=important&message=%20)
+
+### Databases
 ![PHPMyAdmin](https://img.shields.io/static/v1?label=PHPMyAdmin&style=for-the-badge&logo=phpmyadmin&color=important&message=%20)
+![Navicat](https://img.shields.io/static/v1?label=Navicat&style=for-the-badge&logo=navicat&color=important&message=%20)
+![DBeaver](https://img.shields.io/static/v1?label=DBeaver&style=for-the-badge&logo=dbeaver&color=important&message=%20)
+
+### Security & Authentication
+![Auth0](https://img.shields.io/static/v1?label=Auth0&style=for-the-badge&logo=auth0&color=important&message=%20)
+
+### Virtualization
 ![VirtualBox](https://img.shields.io/static/v1?label=VirtualBox&style=for-the-badge&logo=virtualbox&color=important&message=%20)
 ![VMWare](https://img.shields.io/static/v1?label=VMWare&style=for-the-badge&logo=vmware&color=important&message=%20)
+
+### Marketing
 ![Google Analytics](https://img.shields.io/static/v1?label=Google%20Analytics&style=for-the-badge&logo=googleanalytics&color=important&message=%20)
 ![Google Search Console](https://img.shields.io/static/v1?label=Google%20Search%20Console&style=for-the-badge&logo=googlesearchconsole&color=important&message=%20)
 ![Google Ads](https://img.shields.io/static/v1?label=Google%20Ads&style=for-the-badge&logo=googleads&color=important&message=%20)
+
+
+## AI models
+
+![ChatGPT](https://img.shields.io/static/v1?label=ChatGPT&style=for-the-badge&logo=openai&color=informational&message=Mediator)
+![Claude](https://img.shields.io/static/v1?label=Claude&style=for-the-badge&logo=claude&color=informational&message=Coding)
+![Grok (xAI)](https://img.shields.io/static/v1?label=Grok%20%28xAI%29&style=for-the-badge&logo=x&color=informational&message=Marketing,%20Communication%20%26%20X%20Integration)
+![Gemini](https://img.shields.io/static/v1?label=Gemini&style=for-the-badge&logo=googlegemini&color=informational&message=Brainstorming%20%26%20Google%20Integration)
+![Perplexity](https://img.shields.io/static/v1?label=Perplexity&style=for-the-badge&logo=perplexity&color=informational&message=Researches)
 
 
 ## IDE
