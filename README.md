@@ -2,11 +2,16 @@
 
 ## Overview
 
-- 👋 Hi, I’m Lorenzo Pellegrini (@Goddino-Repo, IntraMind on social networks)
-- 💼 I'm a Java developer for an IT company, and also the founder, CEO & CTO at IntraMind LLC, my own SaaS startup in the USA
-- 👀 I’m interested in Software and game development, VR, gaming and content creation
-- 🌱 I’m currently learning React Native usefull for the expansion to the mobile side
-- 📫 How to reach me https://os.intramind-srl.com/user-profile/@Goddino or simply by mail: lorenzo.pellegrini@intramind-srl.com
+- 👋 Hi, I’m **Lorenzo Pellegrini** (@Goddino-Repo, IntraMind on social networks).
+- 💼 **Professional Roles**: 
+    - **Java Developer** at Factor-y s.r.l., specializing in scalable enterprise applications with Vaadin, Docker, and Kubernetes.
+    - **Founder, CEO & CTO** at **IntraMind LLC**, a US-based SaaS startup and global digital ecosystem merging AI, gaming, and cybersecurity.
+- 🚀 **Background**: Over **14 years of experience** in software engineering. I have scaled products to over **15 million users** and lead the development of the AI-powered ecosystem (IntraOS, Alessia Bot, and the Undead series).
+- 🛡️ **Cybersecurity Expert**: Former founder of Delta Legion; I collaborate with law enforcement to combat cyber threats and have authored the "Guide for Privacy and Security - Safe Surfing".
+- 👀 **Interests**: Software & game development (UE5), AI/Prompt engineering, ethical hacking, and digital content creation.
+- 🌱 **Learning**: Currently mastering **React Native** for mobile expansion, building on my recent Master's in **Game Development with Unreal Engine** (100 cum laude).
+- 🎯 **Vision**: To establish IntraMind as a global benchmark in AI-driven entertainment and become a thought leader in intelligent digital ecosystems.
+- 📫 **Reach me**: [User Profile](https://os.intramind-srl.com/user-profile/@Goddino) or via mail: [lorenzo.pellegrini@intramind-srl.com](mailto:lorenzo.pellegrini@intramind-srl.com).
 
 ## Skills
 
