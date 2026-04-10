@@ -14,14 +14,37 @@
 ![TypeScript](https://img.shields.io/static/v1?label=TypeScript&style=for-the-badge&logo=typescript&color=important&message=%20)
 ![React JS](https://img.shields.io/static/v1?label=React%20JS&style=for-the-badge&logo=react&color=important&message=%20)
 ![Next JS](https://img.shields.io/static/v1?label=Next%20JS&style=for-the-badge&logo=nextdotjs&color=important&message=%20)
+![Tailwind](https://img.shields.io/static/v1?label=Tailwind&style=for-the-badge&logo=tailwindcss&color=important&message=%20)
 ![MariaDB](https://img.shields.io/static/v1?label=MariaDB&style=for-the-badge&logo=mariadb&color=important&message=%20)
+![Unreal Engine](https://img.shields.io/static/v1?label=Unreal%20Engine&style=for-the-badge&logo=unreal%20engine&color=important&message=%20)
 ![PHP](https://img.shields.io/static/v1?label=PHP&style=for-the-badge&logo=php&color=important&message=%20)
+![Bash](https://img.shields.io/static/v1?label=Bash&style=for-the-badge&logo=gnubash&color=important&message=%20)
+![Bootstrap](https://img.shields.io/static/v1?label=Bootstrap&style=for-the-badge&logo=bootstrap&color=important&message=%20)
+![Twig](https://img.shields.io/static/v1?label=Twig&style=for-the-badge&logo=twig&color=important&message=%20)
 ![HTML](https://img.shields.io/static/v1?label=HTML&style=for-the-badge&logo=html5&color=important&message=%20)
-![Python](https://img.shields.io/static/v1?label=Python&style=for-the-badge&logo=python&color=important&message=%20)
 ![CSS](https://img.shields.io/static/v1?label=CSS&style=for-the-badge&logo=css&color=important&message=%20)
 ![C++](https://img.shields.io/static/v1?label=C%2B%2B&style=for-the-badge&logo=cplusplus&color=important&message=%20)
+![Python](https://img.shields.io/static/v1?label=Python&style=for-the-badge&logo=python&color=important&message=%20)
 ![LUA](https://img.shields.io/static/v1?label=LUA&style=for-the-badge&logo=lua&color=important&message=%20)
-![Unreal Engine](https://img.shields.io/static/v1?label=Unreal%20Engine&style=for-the-badge&logo=unreal%20engine&color=important&message=%20)
+
+
+## Tools
+
+![Git](https://img.shields.io/static/v1?label=Git&style=for-the-badge&logo=git&color=important&message=%20)
+![Maven](https://img.shields.io/static/v1?label=Maven&style=for-the-badge&logo=apachemaven&color=important&message=%20)
+![Bun](https://img.shields.io/static/v1?label=Bun&style=for-the-badge&logo=bun&color=important&message=%20)
+![NodeJS](https://img.shields.io/static/v1?label=NodeJS&style=for-the-badge&logo=nodedotjs&color=important&message=%20)
+![Docker](https://img.shields.io/static/v1?label=Docker&style=for-the-badge&logo=docker&color=important&message=%20)
+![Jenkins](https://img.shields.io/static/v1?label=Jenkins&style=for-the-badge&logo=jenkins&color=important&message=%20)
+![Apache 2](https://img.shields.io/static/v1?label=Apache%202&style=for-the-badge&logo=apache&color=important&message=%20)
+![GitHub](https://img.shields.io/static/v1?label=GitHub&style=for-the-badge&logo=github&color=important&message=%20)
+![Azure DevOps](https://img.shields.io/static/v1?label=Azure%20DevOps&style=for-the-badge&logo=azuredevops&color=important&message=%20)
+![Jira](https://img.shields.io/static/v1?label=Jira&style=for-the-badge&logo=jira&color=important&message=%20)
+![YouTrack](https://img.shields.io/static/v1?label=YouTrack&style=for-the-badge&logo=jetbrains&color=important&message=%20)
+![PHPMyAdmin](https://img.shields.io/static/v1?label=PHPMyAdmin&style=for-the-badge&logo=phpmyadmin&color=important&message=%20)
+![VirtualBox](https://img.shields.io/static/v1?label=VirtualBox&style=for-the-badge&logo=virtualbox&color=important&message=%20)
+![VMWare](https://img.shields.io/static/v1?label=VMWare&style=for-the-badge&logo=vmware&color=important&message=%20)
+
 
 ## IDE
 
@@ -32,6 +55,23 @@
 ![WebStorm](https://img.shields.io/static/v1?label=WebStorm&style=for-the-badge&logo=webstorm&color=informational&message=JetBrains)
 ![Rider](https://img.shields.io/static/v1?label=Rider&style=for-the-badge&logo=rider&color=informational&message=JetBrains)
 ![Unreal Engine](https://img.shields.io/static/v1?label=Unreal%20Engine&style=for-the-badge&logo=unreal%20engine&color=informational&message=Epic%20Games)
+![Visual Studio Code](https://img.shields.io/static/v1?label=Visual%20Studio%20Code&style=for-the-badge&logo=vscode&color=informational&message=Microsoft)
+![Antigravity](https://img.shields.io/static/v1?label=Antigravity&style=for-the-badge&logo=google&color=informational&message=Google)
+
+
+## Environments
+
+![Windows](https://img.shields.io/static/v1?label=Windows&style=for-the-badge&logo=windows&color=informational&message=%20)
+![MacOS](https://img.shields.io/static/v1?label=MacOS&style=for-the-badge&logo=apple&color=informational&message=%20)
+![Linux](https://img.shields.io/static/v1?label=Linux&style=for-the-badge&logo=linux&color=informational&message=%20)
+![Kali](https://img.shields.io/static/v1?label=Kali&style=for-the-badge&logo=kalilinux&color=informational&message=%20)
+![Parrot](https://img.shields.io/static/v1?label=Parrot&style=for-the-badge&logo=parrotsecurity&color=informational&message=%20)
+![Ubuntu](https://img.shields.io/static/v1?label=Ubuntu&style=for-the-badge&logo=ubuntu&color=informational&message=%20)
+![Debian](https://img.shields.io/static/v1?label=Debian&style=for-the-badge&logo=debian&color=informational&message=%20)
+![Fedora](https://img.shields.io/static/v1?label=Fedora&style=for-the-badge&logo=fedora&color=informational&message=%20)
+![Mint](https://img.shields.io/static/v1?label=Mint&style=for-the-badge&logo=linuxmint&color=informational&message=%20)
+![BlackArch](https://img.shields.io/static/v1?label=BlackArch&style=for-the-badge&logo=archlinux&color=informational&message=%20)
+![FreeBSD](https://img.shields.io/static/v1?label=FreeBSD&style=for-the-badge&logo=freebsd&color=informational&message=%20)
 
 
 ## Socials
