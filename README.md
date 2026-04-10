@@ -126,7 +126,6 @@
 ## Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/lorenzo-pellegrini-goddino/)
-[![GitHub](https://img.shields.io/github/followers/Goddino-Repo?style=for-the-badge&logo=github&label=Followers)](https://www.github.com/Goddino-Repo)
 [![Twitch Status](https://img.shields.io/twitch/status/intramind?style=for-the-badge&logo=twitch&label=Twitch)](https://www.twitch.tv/intramind)
 [![TikTok](https://img.shields.io/static/v1?label=TikTok&style=for-the-badge&logo=tiktok&color=c&message=Follow)](https://www.tiktok.com/@intramind)
 [![Instagram](https://img.shields.io/static/v1?label=Instagram&style=for-the-badge&logo=instagram&color=c&message=Follow)](https://www.instagram.com/intramind.srl)
