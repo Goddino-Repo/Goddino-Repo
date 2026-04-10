@@ -1,3 +1,7 @@
+# My own world
+
+## Overview
+
 - 👋 Hi, I’m Lorenzo Pellegrini (@Goddino-Repo, IntraMind on social networks)
 - 💼 I'm a Java developer for an IT company, and also the founder, CEO & CTO at IntraMind LLC, my own SaaS startup in the USA
 - 👀 I’m interested in Software and game development, VR, gaming and content creation
@@ -106,6 +110,12 @@
 ![Mint](https://img.shields.io/static/v1?label=Mint&style=for-the-badge&logo=linuxmint&color=informational&message=%20)
 ![BlackArch](https://img.shields.io/static/v1?label=BlackArch&style=for-the-badge&logo=archlinux&color=informational&message=%20)
 ![FreeBSD](https://img.shields.io/static/v1?label=FreeBSD&style=for-the-badge&logo=freebsd&color=informational&message=%20)
+
+
+## Languages
+
+![Italian](https://img.shields.io/static/v1?label=Italian&style=for-the-badge&color=informational&message=Native)
+![English](https://img.shields.io/static/v1?label=Italian&style=for-the-badge&color=informational&message=Fluent%20-%20C1)
 
 
 ## Socials
