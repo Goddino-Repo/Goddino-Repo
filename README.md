@@ -46,7 +46,7 @@
 ![VMWare](https://img.shields.io/static/v1?label=VMWare&style=for-the-badge&logo=vmware&color=important&message=%20)
 ![Google Analytics](https://img.shields.io/static/v1?label=Google%20Analytics&style=for-the-badge&logo=googleanalytics&color=important&message=%20)
 ![Google Search Console](https://img.shields.io/static/v1?label=Google%20Search%20Console&style=for-the-badge&logo=googlesearchconsole&color=important&message=%20)
-![Google Ads](https://img.shields.io/static/v1?label=Google%Ads&style=for-the-badge&logo=googleads&color=important&message=%20)
+![Google Ads](https://img.shields.io/static/v1?label=Google%20Ads&style=for-the-badge&logo=googleads&color=important&message=%20)
 
 
 ## IDE
