@@ -1,5 +1,7 @@
 # My own world
 
+> 🧠 Senior Software Architect & Founder crafting AI‑driven entertainment experiences (IntraOS, Alessia Bot, Undead)
+
 ## Overview
 
 - 👋 Hi, I’m **Lorenzo Pellegrini** (@Goddino-Repo, IntraMind on social networks).
