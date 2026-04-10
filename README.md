@@ -55,6 +55,7 @@
 ![Rancher](https://img.shields.io/static/v1?label=Rancher&style=for-the-badge&logo=rancher&color=important&message=%20)
 ![Dynatrace](https://img.shields.io/static/v1?label=Dynatrace&style=for-the-badge&logo=dynatrace&color=important&message=%20)
 ![ngrok](https://img.shields.io/static/v1?label=ngrok&style=for-the-badge&logo=ngrok&color=important&message=%20)
+![Cloudflare](https://img.shields.io/static/v1?label=Cloudflare&style=for-the-badge&logo=cloudflare&color=important&message=%20)
 
 ### Project management
 ![Jira](https://img.shields.io/static/v1?label=Jira&style=for-the-badge&logo=jira&color=important&message=%20)
