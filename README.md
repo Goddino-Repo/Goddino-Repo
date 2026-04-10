@@ -44,6 +44,9 @@
 ![PHPMyAdmin](https://img.shields.io/static/v1?label=PHPMyAdmin&style=for-the-badge&logo=phpmyadmin&color=important&message=%20)
 ![VirtualBox](https://img.shields.io/static/v1?label=VirtualBox&style=for-the-badge&logo=virtualbox&color=important&message=%20)
 ![VMWare](https://img.shields.io/static/v1?label=VMWare&style=for-the-badge&logo=vmware&color=important&message=%20)
+![Google Analytics](https://img.shields.io/static/v1?label=Google%20Analytics&style=for-the-badge&logo=googleanalytics&color=important&message=%20)
+![Google Search Console](https://img.shields.io/static/v1?label=Google%20Search%20Console&style=for-the-badge&logo=googlesearchconsole&color=important&message=%20)
+![Google Ads](https://img.shields.io/static/v1?label=Google%Ads&style=for-the-badge&logo=googleads&color=important&message=%20)
 
 
 ## IDE
@@ -57,6 +60,8 @@
 ![Unreal Engine](https://img.shields.io/static/v1?label=Unreal%20Engine&style=for-the-badge&logo=unreal%20engine&color=informational&message=Epic%20Games)
 ![Visual Studio Code](https://img.shields.io/static/v1?label=Visual%20Studio%20Code&style=for-the-badge&logo=vscode&color=informational&message=Microsoft)
 ![Antigravity](https://img.shields.io/static/v1?label=Antigravity&style=for-the-badge&logo=google&color=informational&message=Google)
+![Fleet](https://img.shields.io/static/v1?label=Fleet&style=for-the-badge&logo=jetbrains&color=informational&message=JetBrains)
+![Air](https://img.shields.io/static/v1?label=Air&style=for-the-badge&logo=jetbrains&color=informational&message=JetBrains)
 
 
 ## Environments
