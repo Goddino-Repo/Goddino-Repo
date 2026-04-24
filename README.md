@@ -1,4 +1,4 @@
-# My own world
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f36,100:0d1117&height=200&section=header&text=Lorenzo%20Pellegrini&fontSize=60&fontColor=58a6ff&fontAlignY=38&desc=Founder%20%20%E2%80%A2%20Digital%20Enthusiast%20%E2%80%A2%20Software%20Architect&descAlignY=60&descSize=18&descColor=8b949e" width="100%"/>
 
 > 🧠 Senior Software Architect & Founder crafting AI‑driven entertainment experiences (IntraOS, Alessia Bot, Undead)
 
