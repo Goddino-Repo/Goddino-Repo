@@ -145,3 +145,7 @@
 [![Website](https://img.shields.io/website?down_color=red&down_message=offline&label=Alessia%20Bot&logo=firefoxbrowser&style=for-the-badge&up_color=c&up_message=online&url=https%3A%2F%2Fwww.alessiabot.com%2F)](https://www.alessiabot.com/)
 [![Website](https://img.shields.io/website?down_color=red&down_message=offline&label=IntraOS&logo=firefoxbrowser&style=for-the-badge&up_color=c&up_message=online&url=https%3A%2F%2Fwww.alessiabot.com%2F)](https://os.intramind-srl.com/)
 [![Website](https://img.shields.io/website?down_color=red&down_message=offline&label=IntraBlog&logo=firefoxbrowser&style=for-the-badge&up_color=c&up_message=online&url=https%3A%2F%2Fblog.intramind-srl.com%2F)](https://blog.intramind-srl.com/)
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f36,100:0d1117&height=100&section=footer" width="100%"/>
+</div>
