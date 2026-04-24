@@ -47,7 +47,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats-chi-seven-87.vercel.app/api?username=Goddino-Repo&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&ring_color=58a6ff&count_private=true&include_all_commits=true" height="165"/>
+<img src="https://github-readme-stats-chi-seven-87.vercel.app/api?username=Goddino-Repo&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&ring_color=58a6ff&count_private=true&include_all_commits=true&include_orgs=true" height="165"/>
 <img src="https://github-readme-stats-chi-seven-87.vercel.app/api/top-langs/?username=Goddino-Repo&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=8&count_private=true" height="165"/>
 
 <br/>
