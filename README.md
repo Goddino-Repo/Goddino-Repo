@@ -14,7 +14,6 @@
 ## 📑 Table of Contents
 
 - [👤 About Me](#-about-me)
-- [🏆 GitHub Trophies](#-github-trophies)
 - [📊 GitHub Stats](#-github-stats)
 - [🚀 Featured Projects](#-featured-projects)
 - [💻 Skills](#-skills)
