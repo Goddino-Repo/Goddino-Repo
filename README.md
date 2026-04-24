@@ -123,7 +123,7 @@
 ## Languages
 
 ![Italian](https://img.shields.io/static/v1?label=Italian&style=for-the-badge&color=informational&message=Native)
-![English](https://img.shields.io/static/v1?label=Italian&style=for-the-badge&color=informational&message=Fluent%20-%20C1)
+![English](https://img.shields.io/static/v1?label=English&style=for-the-badge&color=informational&message=Fluent%20-%20C1)
 
 
 ## Socials
