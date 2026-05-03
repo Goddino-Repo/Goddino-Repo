@@ -145,6 +145,7 @@
 ### 📣 Marketing
 ![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white)
 ![Google Search Console](https://img.shields.io/badge/Search_Console-4285F4?style=for-the-badge&logo=googlesearchconsole&logoColor=white)
+![Bing Webmaster Tools](https://img.shields.io/badge/Bing_Webmaster_Tools-4285F4?style=for-the-badge&logo=googlesearchconsole&logoColor=white)
 ![Google Ads](https://img.shields.io/badge/Google_Ads-4285F4?style=for-the-badge&logo=googleads&logoColor=white)
 
 </div>
