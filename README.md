@@ -38,7 +38,7 @@
 - 👀 **Interests**: Software & game development (UE5), AI/Prompt engineering, ethical hacking, and digital content creation.
 - 🌱 **Learning**: Currently mastering **React Native** for mobile expansion, building on my recent Master's in **Game Development with Unreal Engine** *(100 cum laude)*.
 - 🎯 **Vision**: To establish IntraMind as a global benchmark in AI-driven entertainment and become a thought leader in intelligent digital ecosystems.
-- 📫 **Reach me**: [User Profile](https://os.intramind-srl.com/user-profile/@Goddino) · [lorenzo.pellegrini@intramind-srl.com](mailto:lorenzo.pellegrini@intramind-srl.com)
+- 📫 **Reach me**: [IntraOS](https://os.intramind-srl.com/user-profile/@Goddino) · [lorenzo.pellegrini@intramind-srl.com](mailto:lorenzo.pellegrini@intramind-srl.com)
 
 ---
 
